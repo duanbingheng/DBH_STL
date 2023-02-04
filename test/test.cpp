@@ -1,6 +1,6 @@
 #include <iostream>
 #include "../common/common.hpp"
-using namespace std;
+using namespace x`std;
 union _Obj
 {
     union _Obj *_M_free_list_link;
